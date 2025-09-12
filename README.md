@@ -366,4 +366,5 @@ npx hardhat verify --network mainnet <CONTRACT_ADDRESS>
 
 **Building the future of transparent, trustless warranty management on blockchain** 🔗✨
 ##contract
-"C:\Users\vskv8\OneDrive\Pictures\Screenshots\Screenshot 2025-09-10 140330.png"
+<img width="1910" height="1073" alt="Screenshot 2025-09-10 140330" src="https://github.com/user-attachments/assets/da967db6-9923-463d-9b72-b28ffdd2c2d5" />
+
